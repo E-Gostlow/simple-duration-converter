@@ -1,5 +1,5 @@
 
-# simple-duration
+# simple-duration-converter
 
 [![npm version](https://img.shields.io/npm/v/simple-duration-converter.svg)](https://www.npmjs.com/package/simple-duration-converter)
 
@@ -10,7 +10,7 @@ An updated version of https://github.com/nicolas-van/simple-duration
 Examples:
 
 ```javascript
-const sd = require('simple-duration');
+const sd = require('simple-duration-converter');
 
 const i = sd.parse('3h 10m 52s') // i = 11452
 
